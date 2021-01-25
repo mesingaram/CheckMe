@@ -1,0 +1,110 @@
+<resources>
+    <string name="app_name">Check Me</string>
+    <string name="splash2">Ponnamaravathy Mofussil Bus Timing</string>
+    <string name="title_activity_main">MainActivity</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="destin">Destination:</string>
+    <!-- -
+        This is an ad unit ID for a banner test ad. Replace with your own banner ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+
+    <string name="destination">Destinations</string>
+    <string-array name="destinations">
+        <item>Select Destination</item>
+        <item>Chennai</item>
+        <item>Chidambaram</item>
+        <item>Coimbatore</item>
+        <item>Dharmapuri</item>
+        <item>Dindigul</item>
+        <item>Erode</item>
+        <item>Kottampatti</item>
+        <item>Kumuli</item>
+        <item>Madurai</item>
+        <item>Mettupalayam</item>
+        <item>Natham</item>
+        <item>Palani</item>
+        <item>Pondichery</item>
+        <item>Pudukkottai</item>
+        <item>Singampunari</item>
+        <item>Thanjavur</item>
+        <item>Thuvarankuruchi</item>
+        <item>Thirupur</item>
+        <item>Thiruchi</item>
+        <item>Ukkadam</item>
+
+    </string-array>
+
+    <string name="mdu">
+        \n
+        Bus : Government\n
+        Time : 4:22AM\n
+        Route : Selliampatti\n
+            --------\n
+        Bus : Government\n
+        Time : 5:55AM\n
+        Route : Varpatti\n
+            --------\n
+        Bus : Government\n
+        Time : 6:50AM\n
+        Route : Varpatti\n
+            --------\n
+        Bus : Government\n
+        Time : 7:00AM\n
+        Route : Muraiyur\n
+            --------\n
+        Bus : Government\n
+        Time : 10:30AM\n
+        Route : Thirukkalambur\n
+            --------\n
+        Bus : Government\n
+        Time : 11:50AM\n
+        Route : Varpatti\n
+            --------\n
+        Bus : Government\n
+        Time : 1:35PM\n
+        Route : Varpatti\n
+            --------\n
+        Bus : Government\n
+        Time : 2:25PM\n
+        Route : Varpatti\n
+            --------\n
+        Bus : Government\n
+        Time : 3:30PM\n
+        Route : Thirukkalambur\n
+            --------\n
+        Bus : Government\n
+        Time : 5:50PM\n
+        Route : Varpatti\n
+            --------\n
+        Bus : Government\n
+        Time : 6:45PM\n
+        Route : Muraiyur\n
+            --------\n
+        Bus : Government\n
+        Time : 7:05PM\n
+        Route : Varpatti\n
+            --------\n
+    </string>
+    <string name="title_activity_mdu">MduActivity</string>
+
+    <string name="interstitial_ad_sample">Interstitial Ad Sample</string>
+    <string name="start_level">Level 1</string>
+    <string name="next_level">Next Level</string>
+    <!-- -
+        This is an ad unit ID for an interstitial test ad. Replace with your own interstitial ad unit id.
+        For more information, see https://support.google.com/admob/answer/3052638
+    <!- -->
+    <string name="interstitial_ad_unit_id">ca-app-pub-3940256099942544/1033173712</string>
+    <string name="madurai">Ponnamaravathi - Madurai</string>
+    <string name="cbe">Ponnamaravathi - Coimbatore</string>
+
+    <string name="title_activity_spinner">SpinnerActivity</string>
+    <string name="title_activity_cbe">CbeActivity</string>
+
+
+
+</resources>
